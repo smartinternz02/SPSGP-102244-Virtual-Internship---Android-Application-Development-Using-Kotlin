@@ -2,7 +2,7 @@ SPSGP-65269-Virtual-Internship---Android-Application-Development-Using-Kotlin
 ==================================
 Virtual Internship - Android Application Development Using Kotlin by SmartBridge & GOOGLE in collaboration with AICTE
 
-Name: [Hariram B](https://github.com/noobshubham)
+Name: [Hariram B](https://github.com/Hariram2001)
 ------------
 
 Presenting the project Nearby Store & Grocery List to you!
